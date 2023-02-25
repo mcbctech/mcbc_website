@@ -38,12 +38,15 @@
       <time class="date-meta">({{ .Date.Format "Jan 2, 2006" }})</time>
       {{ end }}
       <br>
+      {{ if (isset .Params "description") }}}
+      {{ else }}
       {{ .Summary | plainify | safeHTML }}
       {{ if .Truncated }}
         <a class="button small alt" href="{{ .Permalink }}" >
             Read more<i class="fas fa-angle-double-right"></i>
         </a>
       {{ end }} {{/* if */}}
+      {{ end }}
     </div>
     {{ end }}{{/* if */}}
     {{ if lt (add $index 1) $len }}

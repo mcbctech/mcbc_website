@@ -2,7 +2,7 @@
 ---
 title: "Finding I Am"
 subtitle: "Growiing together as Women of the Word"
-description: "Speaking to women"
+description: "Reading and discussing Finding I AM by Lysa TerKeurst"
 date: 2018-05-03T21:08:01+10:00
 regular: "Mondays at at 6:30pm"
 tags: ["men"]
