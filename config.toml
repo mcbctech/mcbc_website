@@ -76,7 +76,7 @@ enableInlineShortcodes = true
   bible_popups = "faithlife" #faithlife, blb
   bible_version = "CSB" #HCSB, NIV, NLT, ESV, etc.
   instant_page = true
-
+  baseIMGURL = 'https://mcbctech.github.io/mcbc_website/' 
   #customCSS = ["example.css"]
 
   [params.favicon]
