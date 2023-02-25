@@ -18,17 +18,18 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.106.0'
+          extended: true
       
       - name: Build
         run: hugo --minify
       
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
+          #        if: github.ref == 'refs/heads/main'
         with:
-          github_tokesn: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
           key_files: true
           user_name: fhardison1
           user_email: fhardison+@gmail.com
