@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mcbctech.github.io/'
 languageCode = 'en-us'
 title = 'Muddy Creek Baptist Church'
 theme = "alpha-church"
