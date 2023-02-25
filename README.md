@@ -6,6 +6,6 @@ Website for Muddy Creek Baptist Church in Powhatan VA
 
 ```sh
 git add --all
-git commit -m "@$"
+git commit -m "$1"
 git push
 ```
