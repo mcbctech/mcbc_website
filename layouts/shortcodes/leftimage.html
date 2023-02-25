@@ -1,0 +1,21 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+
+{{ if (isset $.Page.Params "draft") }}
+<div style="margin:2em;">
+  <img
+    src="{{ $.Site.Params.draftIMGURL }}img/{{ $src }}"
+    alt="{{ $alt }}"
+    decoding="async"
+  />
+</div>
+{{ else }}
+<div style="margin:2em;">
+  <img
+    src="{{ $.Site.Params.baseIMGURL }}img/{{ $src }}"
+    alt="{{ $alt }}"
+    decoding="async"
+  />
+</div>
+
+{{ end }}

@@ -47,11 +47,6 @@ enableInlineShortcodes = true
     weight = 1
 
   [[menu.main]]
-    name = "Preachers"
-    url = "/preachers"
-    weight = 1
-
-  [[menu.main]]
     name = "Give"
     url = "https://tithe.ly/give?c=657096"
     weight = 5
@@ -77,6 +72,7 @@ enableInlineShortcodes = true
   bible_version = "CSB" #HCSB, NIV, NLT, ESV, etc.
   instant_page = true
   baseIMGURL = 'https://mcbctech.github.io/mcbc_website/' 
+  draftIMGURL = '/mcbc_website/' 
   #customCSS = ["example.css"]
 
   [params.favicon]
