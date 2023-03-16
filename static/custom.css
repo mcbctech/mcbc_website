@@ -1,0 +1,22 @@
+
+:root { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  :root { font-family: 'Inter var', sans-serif; }
+}
+
+
+body {
+	font-size: 16px;
+	line-height:1.25em;
+	font-family: Inter;
+	font-weight:300;
+	
+}
+
+h2 {
+	font-weight: 600;
+}
+
+p {
+	margin: 1.5em 0;
+}

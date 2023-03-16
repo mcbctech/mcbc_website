@@ -73,7 +73,7 @@ enableInlineShortcodes = true
   instant_page = true
   baseIMGURL = 'https://mcbctech.github.io/mcbc_website/' 
   draftIMGURL = '/mcbc_website/' 
-  #customCSS = ["example.css"]
+  customCSS = ["custom.css", "inter.css"]
 
   [params.favicon]
     sml = "/example16.png"
