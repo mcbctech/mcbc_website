@@ -16,3 +16,12 @@ date: 2023-02-25
 # Address
 
 - 3470 Trenholm Road Powhatan, Virginia  23139
+
+# Subscribe to our news
+
+If you could like to receive updates with:
+
+- Events
+- News
+
+Send an email to [muddycreekbaptist@gmail.com](mailto:muddycreekbaptist@gmail.com?subject="Subscribe") to subscribe.

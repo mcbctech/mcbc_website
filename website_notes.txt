@@ -1,0 +1,29 @@
+github.com
+
+fhardison+@gmail.com
+@Jack10910
+
+
+
+
+password: durwent1774
+
+# before editing
+
+git pull
+
+# to test changes
+
+hugo server
+
+start http://localhost:1313/mcbc_website/
+
+# to ditch changes
+
+git stash
+
+
+# to push change to web
+git add --all
+git commit "<type id/desc here>"
+git push

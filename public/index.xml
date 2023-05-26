@@ -2,76 +2,142 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Muddy Creek Baptist Church</title>
-    <link>http://example.org/</link>
+    <link>https://mcbctech.github.io/mcbc_website/</link>
     <description>Recent content on Muddy Creek Baptist Church</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mcbctech.github.io/mcbc_website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ephesians</title>
+      <link>https://mcbctech.github.io/mcbc_website/ephesians/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcbctech.github.io/mcbc_website/ephesians/</guid>
+      <description>Sermons on Ephesians </description>
+    </item>
+    
+    <item>
+      <title>Jeff Beard</title>
+      <link>https://mcbctech.github.io/mcbc_website/jeff-bio/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcbctech.github.io/mcbc_website/jeff-bio/</guid>
+      <description>Jeff grew up in central Illinois, as a pastor’s kid watching his parents serve in ministry in Illinois and Kentucky.
+After a brief career in radio broadcasting, Jeff attended a Bible school where he met Lisa. They got married in 1985 and soon began a life in ministry. Jeff and Lisa have two children and two grandchildren. Family is a central part of their daily lives.
+Jeff has been a pastor for over 30 years.</description>
+    </item>
+    
+    <item>
+      <title>Sermons</title>
+      <link>https://mcbctech.github.io/mcbc_website/our-sermons/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcbctech.github.io/mcbc_website/our-sermons/</guid>
+      <description>Recent Sermons Sermon Series Ephesians Archive of all sermons You can subscribe to the sermon podcast using one of the links below:
+Spotify Amazon Music rss </description>
+    </item>
+    
+    <item>
+      <title>He is Risen Devotional</title>
+      <link>https://mcbctech.github.io/mcbc_website/events/lent-devo/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcbctech.github.io/mcbc_website/events/lent-devo/</guid>
+      <description>Click here for an online verison of th edaily davotional.
+Print copies available for pickup on Sunday mornings.</description>
+    </item>
+    
+    <item>
+      <title>Kids</title>
+      <link>https://mcbctech.github.io/mcbc_website/kids/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcbctech.github.io/mcbc_website/kids/</guid>
+      <description>At Muddy Creek we believe that families are important and that discipleship starts at home.
+We provide opportunities for families to grow together though:
+A small group for families with children at 10:00 AM with child care, and Children&amp;rsquo;s classes during the 11:00 service. This two prongged appraoch allows parents can grow together and build friendships while children have time growing and having fun with their peers.
+We care deeply about the health and saftey of our children.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://mcbctech.github.io/mcbc_website/about/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcbctech.github.io/mcbc_website/about/</guid>
+      <description>Nestled in the northwest corner of Powhatan County, Virginia, you will find a friendly, welcoming congregation.
+We are a church with an emphasis on teaching God’s Word, along with building relationships, prayer, and sincere love. Living this out day-to-day in the Gospel of Grace is our journey together.
+Meet our Leaders | Find out about our Beliefs
+We draw near to our God and Savior:
+through the Scriptures, through our gathering together in worship, in ministry, in fellowship with one another, and through sharing Him with one another and with others.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mcbctech.github.io/mcbc_website/contact/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcbctech.github.io/mcbc_website/contact/</guid>
+      <description>Email muddycreekbaptist@gmail.com Sunday Services 9:45 am - Morning Bible Study 11:00 am - Worship Service 11:00 am - MCBC Kids Address 3470 Trenholm Road Powhatan, Virginia 23139 Subscribe to our news If you could like to receive updates with:
+Events News Send an email to muddycreekbaptist@gmail.com to subscribe.</description>
+    </item>
+    
+    <item>
+      <title>Staff</title>
+      <link>https://mcbctech.github.io/mcbc_website/leaders/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcbctech.github.io/mcbc_website/leaders/</guid>
+      <description>Jeff Beard Our Pastor
+MA from California Graduate School of Theology MBA from Virginia Commonwealth University Heather Younce Music Ministries
+Amy and Fletcher Hardison Children and Family Ministires</description>
+    </item>
+    
     <item>
       <title>VBS 2023</title>
-      <link>http://example.org/events/vbs2023/</link>
+      <link>https://mcbctech.github.io/mcbc_website/events/vbs2023/</link>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/vbs2023/</guid>
-      <description>Kids VBS 2023. VBS at MCBC 2023.
-Link to site</description>
+      <guid>https://mcbctech.github.io/mcbc_website/events/vbs2023/</guid>
+      <description>This year MCBC will be doing Keepers of the Kingdom VBS from Answers in Genesis.
+Dates: June 19th&amp;ndash;23rd Time: 6:30pm&amp;ndash;8:30pm
+We&amp;rsquo;ll have a family night dinner on Friday the 23rd. Bring mom and dad and enjoy food, fun, and games.
+Click here to learn more about Keepers of the Kingdom VBS.</description>
     </item>
     
     <item>
       <title>Finding I Am</title>
-      <link>http://example.org/events/finding-i-am/</link>
+      <link>https://mcbctech.github.io/mcbc_website/events/finding-i-am/</link>
       <pubDate>Thu, 03 May 2018 21:08:01 +1000</pubDate>
       
-      <guid>http://example.org/events/finding-i-am/</guid>
+      <guid>https://mcbctech.github.io/mcbc_website/events/finding-i-am/</guid>
       <description>Reading and discussing Finding I AM by Lysa TerKeurst.</description>
     </item>
     
     <item>
       <title>Speaking to men</title>
-      <link>http://example.org/events/speaking-to-men/</link>
+      <link>https://mcbctech.github.io/mcbc_website/events/speaking-to-men/</link>
       <pubDate>Thu, 03 May 2018 21:08:01 +1000</pubDate>
       
-      <guid>http://example.org/events/speaking-to-men/</guid>
-      <description>Reading and discussing Humility by Andrew Murray. </description>
+      <guid>https://mcbctech.github.io/mcbc_website/events/speaking-to-men/</guid>
+      <description>Reading and discussing Humility by Andrew Murray.</description>
     </item>
     
     <item>
       <title>John Calvin: Institutes 2 11</title>
-      <link>http://example.org/sermons/institutes-2-11/</link>
+      <link>https://mcbctech.github.io/mcbc_website/sermons/institutes-2-11/</link>
       <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
       
-      <guid>http://example.org/sermons/institutes-2-11/</guid>
+      <guid>https://mcbctech.github.io/mcbc_website/sermons/institutes-2-11/</guid>
       <description>Public Domain recording from librivox</description>
     </item>
     
     <item>
-      <title>Kids</title>
-      <link>http://example.org/kids/</link>
-      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
-      
-      <guid>http://example.org/kids/</guid>
-      <description>This is an example of multiple columns.
-Unfortunately it needs the author to write html to work (though I could put everything in the front matter!)
-Left Column You can fill this in with html or *markdown* And another subheading Adipiscing faucibus nunc placerat. Tempus adipiscing turpis non blandit accumsan eget lacinia nunc integer interdum amet aliquam ut orci non col ut ut praesent. Semper amet interdum mi. Phasellus enim laoreet ac ac commodo faucibus faucibus.</description>
-    </item>
-    
-    <item>
-      <title>Leaders</title>
-      <link>http://example.org/leaders/</link>
-      <pubDate>Mon, 30 Apr 2018 14:27:13 +1000</pubDate>
-      
-      <guid>http://example.org/leaders/</guid>
-      <description>Our Pastor ![This is an image](/img/Jeff and Lisa edited2.webp)
-MA from California Graduate School of Theology MBA from Virginia Commonwealth University Worship Ministries Heather Younce
-Children and Family Ministires </description>
-    </item>
-    
-    <item>
       <title>Least of All the Saints</title>
-      <link>http://example.org/sermons/eph-2-12/</link>
+      <link>https://mcbctech.github.io/mcbc_website/sermons/eph-2-12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/sermons/eph-2-12/</guid>
+      <guid>https://mcbctech.github.io/mcbc_website/sermons/eph-2-12/</guid>
       <description>Listen on Soundcloud</description>
     </item>
     

@@ -30,20 +30,14 @@ enableInlineShortcodes = true
     weight = 1
 
   [[menu.main]]
-    name = "About Us"
-    parent = "About"
+    name = "About"
     url = "/about"
-    weight = 1
+    weight = 0
 
-  [[menu.main]]
-    name = "Staff"
-    parent = "About"
-    url = "/leaders"
-    weight = 2
 
   [[menu.main]]
     name = "Sermons"
-    url = "/sermons"
+    url = "/our-sermons"
     weight = 1
 
   [[menu.main]]
@@ -66,14 +60,14 @@ enableInlineShortcodes = true
   title = "Muddy Creek Baptist Church"
   subtitle = "Powhatan, VA"
   author = "Jeff Beard"
-  keywords = ["church", "hugo", "podcast"]
+  keywords = ["church", "podcast"]
   languageCode = "en" # For accessibility this needs to be set. You can find all language codes at https://www.w3schools.com/tags/ref_language_codes.asp
   bible_popups = "faithlife" #faithlife, blb
   bible_version = "CSB" #HCSB, NIV, NLT, ESV, etc.
   instant_page = true
   baseIMGURL = 'https://mcbctech.github.io/mcbc_website/' 
   draftIMGURL = '/mcbc_website/' 
-  customCSS = ["custom.css", "inter.css"]
+  customCSS = ["/css/custom.css", "/css/inter.css"]
 
   [params.favicon]
     sml = "/example16.png"
@@ -81,7 +75,7 @@ enableInlineShortcodes = true
     #lge = "example96.png"
 
   [params.banner]
-    image = "img/banner.jpg"
+    image = "img/homepage.jpg"
 
 #  [params.style]
 #    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
@@ -94,7 +88,7 @@ enableInlineShortcodes = true
     image = "img/podcast_cover.jpg"
     category = "Religion & Spirituality"
     sub_category = "Christianity"
-    feed = " https://soundcloud.com/muddy-creek-baptist/sets/recent-sermons?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    feed = "https://anchor.fm/s/e25009c8/podcast/rss"
 
   [params.map]
     service = "osm" #"osm" for OpenStreetMaps, "google" for Google Maps, or "mapbox" for Mapbox, see SETUP.md
@@ -130,7 +124,7 @@ enableInlineShortcodes = true
       service = "Podcast"
       icon = "fa-podcast"
       icon_pack = "fas"
-      link = "https://soundcloud.com/muddy-creek-baptist/sets/recent-sermons"
+      link = "https://open.spotify.com/show/5W4UekZKOvVAe9gi9UKmZN?si=7bf02cca070340ef"
 
     #[[params.links]]
      # service = "Full RSS Feed"

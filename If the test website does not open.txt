@@ -1,0 +1,4 @@
+If the test website d/n open, go to the MCBC folder and open the subfolder - mcbc_website
+right click on a blank space in that folder and click on the menu command: "Get Bash Here"
+in the command line, type:  hugo serve
+Then refresh the browser with the test url in it.

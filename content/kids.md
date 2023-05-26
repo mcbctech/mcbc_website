@@ -10,9 +10,9 @@ At Muddy Creek we believe that families are important and that discipleship star
 
 We provide opportunities for families to grow together though:
 
-- A small group for families with children at 10:00 with child care, and
-- Children's classes durring the 11:00 service.
+- A small group for families with children at 10:00 AM with child care, and
+- Children's classes during the 11:00 service.
 
-This two prongged appraoch means that parents can grow together, and find fellowship and friends but also allows children to have time growing and having fun with their peers. 
+**This two prongged appraoch allows parents can grow together and build friendships while children have time growing and having fun with their peers.** 
 
-_We care deeply about the health ands saftey of our children. To that end, regular volunteers have back groud checks and classes are help in places where they can be observed easily by people passing by._
+_We care deeply about the health and saftey of our children. Regular volunteers have backgroud checks and classes are in places where they can be observed._

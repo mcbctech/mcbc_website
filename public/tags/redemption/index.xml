@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>redemption on Muddy Creek Baptist Church</title>
-    <link>http://example.org/tags/redemption/</link>
+    <link>https://mcbctech.github.io/mcbc_website/tags/redemption/</link>
     <description>Recent content in redemption on Muddy Creek Baptist Church</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 May 2018 20:12:30 +1000</lastBuildDate><atom:link href="http://example.org/tags/redemption/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 May 2018 20:12:30 +1000</lastBuildDate><atom:link href="https://mcbctech.github.io/mcbc_website/tags/redemption/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Calvin: Institutes 2 11</title>
-      <link>http://example.org/sermons/institutes-2-11/</link>
+      <link>https://mcbctech.github.io/mcbc_website/sermons/institutes-2-11/</link>
       <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
       
-      <guid>http://example.org/sermons/institutes-2-11/</guid>
+      <guid>https://mcbctech.github.io/mcbc_website/sermons/institutes-2-11/</guid>
       <description>Public Domain recording from librivox</description>
     </item>
     
     <item>
       <title>Least of All the Saints</title>
-      <link>http://example.org/sermons/eph-2-12/</link>
+      <link>https://mcbctech.github.io/mcbc_website/sermons/eph-2-12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/sermons/eph-2-12/</guid>
+      <guid>https://mcbctech.github.io/mcbc_website/sermons/eph-2-12/</guid>
       <description>Listen on Soundcloud</description>
     </item>
     

@@ -5,7 +5,7 @@ date: 2023-02-25
 
 ## Jeff Beard
 
-_Our pastor_
+_Our Pastor_
 
 {{% leftimage alt="Jeff photo"  src="jeff-lisa.jpg" %}}
 
@@ -15,7 +15,7 @@ _Our pastor_
 
 ## Heather Younce
 
-_Worship Ministries_
+_Music Ministries_
 
 {{% leftimage alt="Heather photo"  src="heather.png" %}}
 
@@ -26,8 +26,4 @@ _Children and Family Ministires_
 
 {{% leftimage alt="Amy and Fletcher photo" src="hardison.jpg" %}}
 
-## Rhonda Sams
 
-_Administrative Assistant and Finance Director_
-
-{{% leftimage src="rhonda.jpg" alt="Rhonda photo" %}}

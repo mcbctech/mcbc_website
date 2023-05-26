@@ -15,6 +15,7 @@
 					<section class="box special">
 						<header class="major">
 							<h2>{{ .Params.Services.title }}</h2><a name="services"></a>
+							<p>{{ .Params.Services.kids | markdownify}}</p>
 							<p>{{ .Params.Services.text | markdownify }}</p>
 							<p style="max-width: 65%;">{{ .Params.Services.church_desc | markdownify }}</p>
 						</header>
