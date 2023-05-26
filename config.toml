@@ -2,6 +2,7 @@ baseURL = 'https://mcbctech.github.io/mcbc_website/'
 languageCode = 'en-us'
 title = 'Muddy Creek Baptist Church'
 theme = "alpha-church"
+publishDir = "docs"
 
 ssLimit = 5
 paginate = 4
