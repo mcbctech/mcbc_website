@@ -41,6 +41,12 @@ _Our Pastor_
 
 [Read bio](/mcbc_website/jeff-bio)
 
+## Gary Stein
+
+PICTURE here
+
+[Read bio](/mcbc_website/gary-bio)
+
 ## Heather Younce
 
 _Music Ministries_

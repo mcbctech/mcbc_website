@@ -12,6 +12,11 @@ _Our Pastor_
 - MA from California Graduate School of Theology 
 - MBA from Virginia Commonwealth University
 
+## Gary Stein
+
+_Elder_
+
+- [Read bio](/mcbc_website/gary-bio)
 
 ## Heather Younce
 
