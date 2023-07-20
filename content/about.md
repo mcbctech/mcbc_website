@@ -27,7 +27,7 @@ As a church that lives under the cross, this is a biblical place to grow in your
 
 
 
-## Leaders
+# Leaders
 
 <!-- TODO fix gapes between sections -->
 

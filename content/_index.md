@@ -47,6 +47,13 @@
     url = "kids"
     button_text = "Learn more"
 
+[[feature_images.tile]]
+    title = "Youth Ministry"
+    text = "A place to become."
+    url = "youth"
+    button_text = "Learn more"
+
+
   [[feature_images.tile]]
     image = "img/outdoor_fellowship.jpg"
     title = "About"
